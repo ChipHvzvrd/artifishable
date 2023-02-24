@@ -1,0 +1,25 @@
+body {
+  background-color: #ACA885;
+}
+
+#NavBar {
+  border-bottom: 1px solid #434A42;
+  border-radius: 2px;
+}
+
+#signupbtn {
+  color: #434A42;
+  background-color: #ACA885;
+  border: 2px solid #434A42;
+  border-radius: 20px;
+  opacity: 95%;
+}
+
+#fish_logo {
+  width: 15vw;
+  opacity: 80%;
+}
+
+.navLink {
+  text-decoration: none;
+}
